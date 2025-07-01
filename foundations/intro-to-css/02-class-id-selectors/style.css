@@ -1,0 +1,19 @@
+.class {
+    background-color: rgb(238, 88, 110);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#id {
+    color: rgb(87, 87, 237);
+    font-size: 36px;
+}
+
+#another_id {
+    background-color: rgb(153, 206, 153);
+    font-size: 24px;
+    font-weight: 700
+}
